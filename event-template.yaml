@@ -1,0 +1,18 @@
+event:
+  title:
+    # Event title, linked-part will be blue and go to artist.
+    # Parts will be joined, seperated by a space.
+    linked_part: "{artistName}'s"
+    unlinked_part: "Secret Show"
+    artist_link: "https://google.com"
+
+  # Show blurb, supports basic html formatting as outlined below
+  blurb_html: >-
+    This is a blurb text, it contains
+    <b>bold</b>, <i>italics</i>, and
+    <a href="https://google.com">links</a>
+
+  # Date of show, if time please write GMT
+  date: "MM/DD/YYYY HH:MM"
+  # Link for ticket sales
+  sales_link: "https://ticketingsite.com"

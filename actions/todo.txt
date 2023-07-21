@@ -1,0 +1,2 @@
+Python script to parse yaml in events dir,
+and regenerate index.html from there.
