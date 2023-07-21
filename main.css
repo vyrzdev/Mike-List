@@ -1,0 +1,62 @@
+body {
+    padding: 0.5em;
+    font-family: 'Courier Prime', monospace;
+}
+
+.events-section-title {
+    font-family: 'Courier Prime', monospace;
+    text-decoration: underline;
+    font-size: larger;
+    margin-bottom: 0.2em;
+}
+
+.brand {
+    font-family: 'Courier Prime', monospace;
+    text-decoration: underline;
+    font-size: x-large;
+    margin-bottom: 0.1em;
+}
+.location {
+    font-family: 'Courier Prime', monospace;
+    color: blue;
+    margin: 0;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.header-right {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.header-link {
+    color: black;
+}
+.event-title {
+    font-family: 'Courier Prime', monospace;
+    font-size: medium;
+    margin: 0;
+}
+.event-title-link {
+    color: blue;
+}
+.events {
+    padding-left: 2em;
+    max-width: 500px;
+}
+.event-blurb {
+    margin: 0;
+    color: #555555;
+    font-size: small;
+    margin-bottom: 0.2em;
+}
+.event-details {
+    margin: 0;
+    font-size: small;
+}
+.event-learn-more {
+    color: blue;
+}
