@@ -1,18 +1,16 @@
 title:
   # Event title, linked-part will be blue and go to artist.
   # Parts will be joined, seperated by a space.
-  linked_part: "{artistName}'s"
+  linked_part: "Fire in the Meadow"
   unlinked_part: "Secret Show"
-  artist_link: "https://google.com"
+  artist_link: "https://www.facebook.com/Fireinthemeadow/"
 
 # Show blurb, supports basic html formatting as outlined below
 blurb_html: >-
-  This is a blurb text, it contains
-  <b>bold</b>, <i>italics</i>, and
-  <a href="https://google.com">links</a>
+  These fast-risers on the Hastings Scene bring the bluegrass infused folk to a Secret Garden venue in Hastings.
 
 # Date of show, if time please write GMT
-date: "MM/DD/YYYY HH:MM"
+date: "08 July 2023"
 
 # Link for ticket sales
 sales_link: "https://ticketingsite.com"
