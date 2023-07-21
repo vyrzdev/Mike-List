@@ -60,3 +60,9 @@ body {
 .event-learn-more {
     color: blue;
 }
+
+.ben-watermark {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+}
