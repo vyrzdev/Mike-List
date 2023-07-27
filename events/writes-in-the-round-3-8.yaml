@@ -1,0 +1,20 @@
+title:
+  # Event title, linked-part will be blue and go to artist.
+  # Parts will be joined, seperated by a space.
+  linked_part: "Writers in the Round"
+  unlinked_part: " w/ Mike"
+  artist_link: "http://431245457784103878.weebly.com/what-is-a-writers-round.html"
+
+# Show blurb, supports basic html formatting as outlined below
+blurb_html: >-
+  Mike hosts a Nashville-style writers round 
+  with Harry Osborne and Connor Sims of local outfit,
+  Chimer + another surprise guest. £15
+  
+  
+
+# Date of show, if time please write GMT
+date: "03/08/2023"
+
+# Link for ticket sales
+sales_link: "https://eclectika-uk-ltd.sumupstore.com/product/3-8-secret-show-w-mike-willis"
