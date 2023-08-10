@@ -1,0 +1,20 @@
+title:
+  # Event title, linked-part will be blue and go to artist.
+  # Parts will be joined, seperated by a space.
+  linked_part: "Mike's"
+  unlinked_part: "Front Room"
+  artist_link: "https://youtu.be/QNs4X-DStoc"
+
+# Show blurb, supports basic html formatting as outlined below
+blurb_html: >-
+  Step into my Front Room for the evening. 
+  I've got some wicked talented friends coming 
+  through to swap songs and stories.<br>
+  This one will be in <b><a href="https://goo.gl/maps/uWosuH2o4Tcz5GyB6"> Henry Ward Hall</a></b> in the America Ground. 
+
+
+# Date of show, if time please write GMT
+date: "10/21/2023"
+
+# Link for ticket sales
+sales_link: "https://eclectika-uk-ltd.sumupstore.com/product/21-10-mike-s-front-room-early-bird"
